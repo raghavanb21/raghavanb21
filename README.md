@@ -73,20 +73,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raghavanb21&theme=github-dark-dimmed&hide_border=true"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavanb21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&rank_icon=github" />
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raghavanb21&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=raghavanb21&theme=shadow"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavanb21&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-![raghavanb21's GitHub Stats](https://readme-stats-github.pages.dev/api?username=raghavanb21&theme=shadow)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=raghavanb21&theme=shadow)
 
 ---
 
