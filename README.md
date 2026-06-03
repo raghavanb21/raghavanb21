@@ -7,9 +7,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/raghavanbala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/raghavanb21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:raghavanb2103@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img href="https://www.credly.com/badges/484d88b5-9baa-464b-b5a1-d89377e4643c/public_url" src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
@@ -81,7 +80,7 @@
 
 ## 💼 Open to Opportunities
 
-I'm actively looking for **SDE / AI Engineer / Research Engineer** roles (full-time, starting May 2027 or internships for Summer 2026).
+I'm actively looking for **SDE / AI Engineer** roles (full-time, starting May 2027 or internships for Fall 2026).
 
 📩 **raghavanb2103@gmail.com** · [LinkedIn](https://linkedin.com/in/raghavanbala/) · [Portfolio](your-portfolio-link)
 
