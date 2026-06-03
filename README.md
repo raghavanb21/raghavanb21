@@ -72,12 +72,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raghavanb21&theme=github-dark-dimmed&hide_border=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=raghavanb21&theme=github-dark-dimmed&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavanb21&show_icons=true&hide_border=true&count_private=true&theme=github_dark_dimmed" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavanb21&layout=compact&hide_border=true&theme=github_dark_dimmed" height="150"/>
+  <img src="https://readme-stats.clckblog.space/api?username=raghavanb21&show_icons=true&hide_border=true&count_private=true&theme=github_dark_dimmed" height="150"/>
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=raghavanb21&layout=compact&hide_border=true&theme=github_dark_dimmed" height="150"/>
 </p>
 
 <p align="center">
