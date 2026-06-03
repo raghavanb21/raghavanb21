@@ -75,9 +75,14 @@
   <img src="https://streak-stats.demolab.com?user=raghavanb21&theme=github-dark-dimmed&hide_border=true"/>
 </p>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-stats.clckblog.space/api?username=raghavanb21&show_icons=true&hide_border=true&count_private=true&theme=github_dark_dimmed" height="150"/>
-  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=raghavanb21&layout=compact&hide_border=true&theme=github_dark_dimmed" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=raghavanb21&theme=github-dark-dimmed&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raghavanb21&theme=flat&no-frame=true&column=6&margin-w=8"/>
 </p>
 
 <p align="center">
