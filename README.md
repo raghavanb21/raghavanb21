@@ -85,6 +85,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavanb21&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
+![raghavanb21's GitHub Stats](https://readme-stats-github.pages.dev/api?username=raghavanb21&theme=shadow)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=raghavanb21&theme=shadow)
+
 ---
 
 ## 💼 Open to Opportunities
