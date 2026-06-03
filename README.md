@@ -15,11 +15,11 @@
 
 ## 🧠 About Me
 
-- 🎓 **MS Computer Science @ Purdue University** (GPA: 4.0) — graduating May 2027
-- 🏅 **Gold Medalist & Rank 1**, NIT Tiruchirappalli B.Tech CS (GPA: 3.9)
-- 🔬 **Research Engineer @ ASSET Lab, Purdue** — building agentic cost optimizers for LLM coding agents (Meta Research Award recipient)
-- 🏆 **Won Most Creative Idea** — Anthropic Claude Hackathon 2026
-- 🌐 Based in West Lafayette, Indiana | Open to SDE / AI Engineer roles
+- 🎓 MS CS @ Purdue University (GPA: 4.0) · B.Tech CS Gold Medalist, NIT Trichy
+- 🤖 Interested in Agentic AI, LLM Systems & Full-Stack Engineering
+- 🔬 Research Engineer @ ASSET Lab — optimizing LLM coding agents
+- ☁️ Love building end-to-end systems — from RAG pipelines to event-driven cloud infra
+- 🧠 Always learning, always shipping
 
 ---
 
