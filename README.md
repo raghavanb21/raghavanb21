@@ -17,8 +17,8 @@
 
 - 🎓 MS CS @ Purdue University (GPA: 4.0) · B.Tech CS Gold Medalist, NIT Trichy
 - 🤖 Interested in Agentic AI, LLM Systems & Full-Stack Engineering
-- 🔬 Research Engineer @ ASSET Lab — optimizing LLM coding agents
-- ☁️ Love building end-to-end systems — from RAG pipelines to event-driven cloud infra
+- 🔬 Research Engineer @ ASSET Lab - optimizing LLM coding agents
+- ☁️ Love building end-to-end systems - from RAG pipelines to event-driven cloud infra
 - 🧠 Always learning, always shipping
 
 ---
